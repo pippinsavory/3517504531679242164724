@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "1032848251102",
+    "project_id": "avocado-studio-7e4a9",
+    "storage_bucket": "avocado-studio-7e4a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032848251102:android:1ada864507728bf9934a4f",
+        "android_client_info": {
+          "package_name": "com.avocadostudio.modgta6mcpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032848251102-vnveha7r1g88c3p45h2qnlbobvipra86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbFwL8vAW8wDTDVaAo-f0SmuSkKpjfdGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032848251102-vnveha7r1g88c3p45h2qnlbobvipra86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4103178418120448~3970146932"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032848251102:android:1e8de52862a8d7c7934a4f",
+        "android_client_info": {
+          "package_name": "com.avocadostudio.skinpokemonmastermcpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032848251102-vnveha7r1g88c3p45h2qnlbobvipra86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbFwL8vAW8wDTDVaAo-f0SmuSkKpjfdGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032848251102-vnveha7r1g88c3p45h2qnlbobvipra86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4103178418120448~6332069472"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032848251102:android:4c377332c1d374f9934a4f",
+        "android_client_info": {
+          "package_name": "com.test.set.estset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032848251102-vnveha7r1g88c3p45h2qnlbobvipra86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbFwL8vAW8wDTDVaAo-f0SmuSkKpjfdGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032848251102-vnveha7r1g88c3p45h2qnlbobvipra86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4103178418120448~2794077898"
+    }
+  ],
+  "configuration_version": "1"
+}
